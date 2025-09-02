@@ -6,6 +6,7 @@
 - [News Popularity Prediction Project/뉴스 인기 예측 프로젝트](https://github.com/Hanna07111/news-popularity-project)
 
 ## Database
+- [Java Shopping Mall Database System/자바&MySQL 기반 쇼핑몰 데이터베이스 구축 프로젝트](https://github.com/Hanna07111/mysql-shoppingmall-db)
 
 ## Data Engineering
 
